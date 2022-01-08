@@ -35,7 +35,7 @@ An open spline (type BSpline) is formed. Each airfoil is processed in order to o
 Run the macro program and follow the instructions.
 
 ## License
-Copyright (C) 2021 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2022 Miloš Petrašinović <info@vazmfb.com>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 
